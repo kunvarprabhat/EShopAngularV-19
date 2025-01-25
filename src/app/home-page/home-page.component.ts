@@ -13,7 +13,7 @@ import { CommonModule } from '@angular/common';
   templateUrl: './home-page.component.html',
   styleUrl: './home-page.component.css',
   imports:[
-    CommonModule,
+    CommonModule, 
     CarouselModule,
     owlCarouselModule,
     MatCardModule,
