@@ -1,0 +1,24 @@
+.footer {
+    background-color: #f0f3f2;
+    padding: 4rem 0;
+}
+
+.footer {
+    background-color: #f0f3f2;
+    padding: 0;
+}
+
+.footer .nav .nav-item .nav-link {
+    color: #5c6c75;
+    padding: 0;
+}
+.footer .nav .nav-item .nav-link:hover {
+    color: #0aad0a;
+    padding: 0;
+}
+.footer .social-links{
+    color: #5c6c75;
+}
+.footer .social-links:hover{
+    color: #0aad0a;
+}
